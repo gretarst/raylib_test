@@ -53,3 +53,5 @@ dkms.conf
 .vscode/
 obj/
 RaylibTest
+green
+.DS_Store
