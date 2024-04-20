@@ -15,6 +15,9 @@ typedef struct Game {
   Camera2D camera;
 } Game;
 
+typedef struct Map {
+} Map;
+
 void UpdateGame(Game* game, float delta);
 void DrawGame(Game* game);
 void InitializeGame(Game* game, int screenWidth, int screenHeight);
